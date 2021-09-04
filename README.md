@@ -66,7 +66,7 @@
 
   <br>
 
-  [![Atif's Activity Graph ](https://activity-graph.herokuapp.com/graph?username=atif11802&theme=dracula)](https://github.com/atif11802/github-readme-activity-graph)
+  [![My Activity Graph ](https://activity-graph.herokuapp.com/graph?username=atif11802&theme=react-dark)](https://github.com/atif11802/github-readme-activity-graph)
   
   
 <br>
