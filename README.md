@@ -15,7 +15,7 @@
 - 🗻  I'm looking to collaborate with other Developers
 - 📘  2021 goals is to be Mern Stack developer and contribute more to open Source projects
 - 🌩️  Fun fact: I love to draw, cook and travel
-- 📫 How to reach me: **ratul0947@gmail.com**
+
 
   
   
