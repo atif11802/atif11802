@@ -56,7 +56,7 @@
   <br>
   
   
-[![My activity graph](https://activity-graph.herokuapp.com/graph?username=atif11802&theme=react-dark&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/atif11802/github-readme-activity-graph)
+
 
   [![Atif's Activity Graph ](https://activity-graph.herokuapp.com/graph?username=atif11802&theme=dracula)](https://github.com/atif11802/github-readme-activity-graph)
   
