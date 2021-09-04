@@ -2,7 +2,7 @@
   <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
 </p>
 <hr>
-<h1 align="center">Hi,<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm <a href="https://github.com/Aryagm">Md. Atif Aslam<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
+<h1 align="center">Hi, I'm <a href="https://github.com/Aryagm">Md. Atif Aslam<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
 <Br>
 
 <h1>About Me! 😎</h1>
@@ -47,11 +47,27 @@
   <a href="https://reactjs.org/" target="_blank"> 
     <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="javascript" width="40" height="40"/> 
   </a> 
+  
+  <a href="https://nodejs.org/en/" target="_blank"> 
+    <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="javascript" width="40" height="40"/> 
+  </a> 
 
+<a href="https://www.mongodb.com/" target="_blank"> 
+    <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="git" width="40" height="40"/> 
+  </a>
+
+   <a href="https://code.visualstudio.com/" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/2056px-Visual_Studio_Code_1.18_icon.svg.png" alt="git" width="40" height="40"/> 
+  </a>
   
   <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a>
+    
+  <a href="https://github.com/" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="git" width="40" height="40"/> 
+  </a>
+
 </p>
 
 ---
