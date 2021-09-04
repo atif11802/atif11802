@@ -55,7 +55,9 @@
 
   <br>
   
-  [![Atif's Stats](https://github-readme-stats.vercel.app/api?username=atif11802)](https://github.com/atif11802/github-readme-activity-graph)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atif11802&show_icons=true&locale=en" alt="atif11802" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atif11802&" alt="atif11802" /></p>
 
   
 
