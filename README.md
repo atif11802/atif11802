@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=atif11802&color=brightgreen&label=PROFILE+VIEWS)
+
 <p align="center">
   <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
 </p>
@@ -15,7 +17,7 @@
 - 🌩️  Fun fact: I love to draw, cook and travel
 - 📫 How to reach me: **ratul0947@gmail.com**
 
-  ![](https://komarev.com/ghpvc/?username=atif11802&color=green)
+  
   
 ### Connect with me:
 
