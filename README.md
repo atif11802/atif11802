@@ -54,14 +54,14 @@
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 
   <br>
-  <br>
-<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
   
-  <br>
   
 [![My activity graph](https://activity-graph.herokuapp.com/graph?username=atif11802&theme=react-dark&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/atif11802/github-readme-activity-graph)
 
-
+<br>
+<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
+  
+  <br>
 
   
  
