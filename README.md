@@ -59,7 +59,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atif11802&" alt="atif11802" /></p>
 
-  
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=atif11802&show_icons=true&locale=en&layout=compact" alt="atif11802" /></p>
+
 
 
   [![Atif's Activity Graph ](https://activity-graph.herokuapp.com/graph?username=atif11802&theme=dracula)](https://github.com/atif11802/github-readme-activity-graph)
