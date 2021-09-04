@@ -54,12 +54,11 @@
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 
   <br>
-  
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atif11802&show_icons=true&locale=en" alt="atif11802" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atif11802&" alt="atif11802" /></p>
 
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=atif11802&show_icons=true&locale=en&layout=compact" alt="atif11802" /></p>
+
 
   [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=atif11802&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=atif11802&langs_count=5&theme=tokyonight)]()
