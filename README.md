@@ -15,6 +15,8 @@
 - 🌩️  Fun fact: I love to draw, cook and travel
 - 📫 How to reach me: **ratul0947@gmail.com**
 
+  ![](https://komarev.com/ghpvc/?username=atif11802&color=green)
+  
 ### Connect with me:
 
 
