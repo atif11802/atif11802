@@ -1,4 +1,5 @@
 ### <h1>![](https://komarev.com/ghpvc/?username=atif11802&color=brightgreen&label=PROFILE+VIEWS)</h1>
+************[![Github](https://img.shields.io/github/followers/CharalambosIoannou?label=Follow&style=social)](https://github.com/CharalambosIoannou)
 
 <p align="center">
   <img src="https://additionalknowledge.files.wordpress.com/2021/03/you-have-been-using-console-wrong-the-whole-time.jpg" height="230"/>
