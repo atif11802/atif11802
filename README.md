@@ -59,7 +59,10 @@
 
 
 
-  
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atif11802&show_icons=true&locale=en&layout=compact" alt="atif11802" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atif11802&show_icons=true&locale=en" alt="atif11802" /></p>
+
 
 
   <br>
