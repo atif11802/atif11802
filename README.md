@@ -1,5 +1,5 @@
 ### <h1>![](https://komarev.com/ghpvc/?username=atif11802&color=brightgreen&label=PROFILE+VIEWS)</h1>
-![Profile views](https://gpvc.arturio.dev/[atif11802])
+
 
 <p align="center">
   <img src="https://additionalknowledge.files.wordpress.com/2021/03/you-have-been-using-console-wrong-the-whole-time.jpg" height="230"/>
@@ -58,10 +58,15 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atif11802&" alt="atif11802" /></p>
 
+  
+  
+  
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=atif11802&langs_count=5&theme=tokyonight)]()
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atif11802&show_icons=true&locale=en" alt="atif11802" /></p>
+
+<p
+   [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=atif11802&langs_count=5&theme=tokyonight)]()
+   >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atif11802&show_icons=true&locale=en" alt="atif11802" /></p>
 
 
 
