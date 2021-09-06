@@ -65,10 +65,10 @@
 
 
 <p
-   [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=atif11802&langs_count=5&theme=tokyonight)]()
+   
    >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atif11802&show_icons=true&locale=en" alt="atif11802" /></p>
 
-
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=atif11802&langs_count=5&theme=tokyonight)]()
 
   <br>
 
