@@ -37,7 +37,7 @@
 ### Languages and Tools:
 
  <Br>
-  <table>
+ <table>
   <tr>
     <td align="center" width="96">
       <a href="#">
@@ -101,7 +101,12 @@
       </a>
       <br>ExpressJS
     </td>
-   
+    <td align="center" width="96">
+      <a href="#" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" width="48" height="48" alt="NextJS" />
+      </a>
+      <br>NextJS
+    </td>
     <td align="center"  width="96">
       <a href="#">
         <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="48" height="48" alt="Github" />
@@ -133,7 +138,6 @@
       <br>TailwindCSS
     </td>
    
-    
   </tr>
 </table>
 
