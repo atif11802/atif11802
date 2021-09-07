@@ -101,6 +101,66 @@
       </a>
       <br>ExpressJS
     </td>
+    <td align="center" width="96">
+      <a href="#" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" width="48" height="48" alt="NextJS" />
+      </a>
+      <br>NextJS
+    </td>
+    <td align="center"  width="96">
+      <a href="#">
+        <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="48" height="48" alt="Github" />
+      </a>
+      <br>Github
+    </td>
+    <td align="center"  width="96">
+      <a href="#">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="48" height="48" alt="VScode" />
+      </a>
+      <br>VScode
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://cdn.worldvectorlogo.com/logos/terminal-1.svg" width="48" height="48" alt="Terminal" />
+      </a>
+      <br>Terminal
+    </td>
+    <td align="center"  width="96">
+      <a href="#">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" width="48" height="48" alt="npm" />
+      </a>
+      <br>npm
+    </td>
+    <td align="center" width="96">
+      <a href="#" >
+        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="48" height="48" alt="TailwindCSS" />
+      </a>
+      <br>TailwindCSS
+    </td>
+    <td align="center" width="96">
+      <a href="#" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" width="48" height="48" alt="Linux" />
+      </a>
+      <br>Linux
+    </td>
+    <td align="center" width="96">
+      <a href="#" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" width="48" height="48" alt="Photoshop" />
+      </a>
+      <br>Photoshop
+    </td>
+  </tr>
+</table>     </a>
+      <br>MongoDB
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96"> 
+      <a href="#" >
+        <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" width="48" height="48" alt="ExpressJS" />
+      </a>
+      <br>ExpressJS
+    </td>
     
     <td align="center"  width="96">
       <a href="#">
