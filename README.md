@@ -180,12 +180,7 @@
       </a>
       <br>Terminal
     </td>
-    <td align="center"  width="96">
-      <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" width="48" height="48" alt="npm" />
-      </a>
-      <br>npm
-    </td>
+   
    
 
   </tr>
