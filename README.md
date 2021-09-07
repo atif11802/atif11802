@@ -1,4 +1,4 @@
-### <h1>![](https://komarev.com/ghpvc/?username=atif11802&color=brightgreen&label=PROFILE+VIEWS)</h1>
+### <h1>![](https://komarev.com/ghpvc/?username=atif11802&color=blue&label=PROFILE+VIEWS)</h1>
 
 
 <p align="center">
