@@ -149,9 +149,7 @@
   <br>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atif11802&" alt="atif11802" /></p>
 
-  
   
   
 
