@@ -10,7 +10,7 @@
 
 ### i am a Student, Developer, And also Sometime Instructor!
 - 🔭  I'm currently Working on React js !
-- 🌱  I'm currently learning Node,Express,Mongoose and everything 😎...
+- 🌱  I'm currently learning React Native,Node,Express,Mongoose and everything 😎...
 - 🗻  I'm looking to collaborate with other Developers
 - 📘  2021 goals is to be Mern Stack developer and contribute more to open Source projects
 - 🌩️  Fun fact: I love to draw, cook and travel
