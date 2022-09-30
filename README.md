@@ -145,7 +145,7 @@
       <a href="#" >
         <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="48" height="48" alt="TailwindCSS" />
       </a>
-      <br>TailwindCSS
+      <br>Redux
     </td>
    
   </tr>
