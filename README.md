@@ -9,7 +9,7 @@
 <h1>About Me! 😎</h1>
 
 ### i am a Student, Developer, And also Sometime Instructor!
-- 🔭  I'm currently Working on React js nad next js !
+- 🔭  I'm currently Working on React js and next js !
 - 🌱  I'm currently learning Nextjs,React Native,Node,Express,Mongoose and everything 😎...
 - 🗻  I'm looking to collaborate with other Developers
 - 📘  2021 goals is to be Mern Stack developer and contribute more to open Source projects
